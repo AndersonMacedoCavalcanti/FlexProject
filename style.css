@@ -15,12 +15,14 @@ ul li a{
 }
 
 .flex-container{
+	
     display: flex;
     max-width: 992px;
     min-width: 320px;
     margin:auto;
     width: 100%;
     padding: 10px 20px;
+	
 }
 
 header{
